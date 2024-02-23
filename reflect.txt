@@ -1,0 +1,26 @@
+Navdeep Virdi
+166485193
+February 7th, 2021
+
+Reflection
+	This workshop was for me the most difficult out of the three that I did. There were many reasons for that but I
+would say one that was somewhat hard was using two header files and creating two modules and using both of the modules
+to be used in the main function. For me, the most difficult situation was using standard library facilities for formatting
+input and output. I would say the most difficult would be using <iomanip> because it was so new to me. In class, we - as in
+the whole class - were told to reflect on the learning outcomes and the issues and difficulty that were presented. 
+  For this part, I decided to <iomanip> which is used for formatting. This was used for the void display() function and 
+this was a hassle to understand. This for me was one the hardest stuff I used because it took me forever to understand what
+in the world was going on and how it would even work. To overcome this, I did a bunch of research on how it works, the functions
+and everything. Even though I did all that there were still some issues when it came to using those function such as set fill
+because I did not know where and what variables or functions would be used. After a bunch of trying I finally ended up with my 
+display function working and once I did get it to work, it clicked and was used in the footer(), Title() and more. I would personally
+say that starting the DIY was also as complicated to me. I was able to again figure out the functions but the use of <iomanip> was such
+a struggle again but then again I got it to work. 
+	Although this was a struggle when it came to the using standard library facilities, I do not regret learning it because
+it did make it much simpler to just add in the number of spaces we need instead of just manually typing them up. The definition of a
+class was very simple and privatize data was not very hard either. We had a “public:” so all the public data and functions were underneath
+it. When looking at the learning outcomes the “instantiate an object of class type” was not as hard as it sounds either. Accessing data from
+a public function was okay too but I would not say easy because from some reason I was not able to process what was being asked. Standard
+library to format data was probably the hardest out of all and this made this whole workshop stand out because of the struggle to understand
+what <iomanip> does and its functions. The learning experience came through with this workshop though. I got to learn a new standard library
+and I am defiantly going to work on using it a lot more in other workshops too. 
